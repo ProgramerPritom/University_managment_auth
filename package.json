@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/server.ts",
+  "lint-staged": {
+    "src/**/*.ts": "npm lint-prettier"
+  },
   "scripts": {
     "start": "ts-node-dev --respawn --transpile-only src/server.ts",
     "lint:check": "eslint --ignore-path .eslintignore --ext .js,.ts",
-    "lint:fix" : "eslint --fix",
+    "lint:fix": "eslint --fix",
     "prettier:check": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint-prettier": "npm lint:check && npm prettier:check",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "author": "Badruzzaman Pritom",
   "license": "ISC",
@@ -18,6 +23,10 @@
     "@typescript-eslint/eslint-plugin": "^6.17.0",
     "@typescript-eslint/parser": "^6.17.0",
     "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "husky": "^8.0.0",
+    "lint-staged": "^15.2.0",
+    "prettier": "^3.1.1",
     "typescript": "^5.3.3"
   },
   "dependencies": {
