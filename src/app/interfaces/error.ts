@@ -1,5 +1,4 @@
 export type IGenericError = {
-    pass:string,
-    message:string,
- }
-
+  pass: string
+  message: string
+}

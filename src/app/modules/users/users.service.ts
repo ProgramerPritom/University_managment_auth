@@ -16,7 +16,7 @@ const createUser = async (user: IUser): Promise<IUser | null> => {
     return createdUser
   } catch (error) {
     errorlogger.error('Error creating user:', error)
-    throw new ApiError(400,"Failed to create user",error)
+    throw new ApiError(400, 'Failed to create user', error)
   }
 }
 

@@ -11,14 +11,10 @@ app.use(express.urlencoded({ extended: true }))
 // Application route
 app.use('/api/v1/users', userRouter)
 
-
-
-
-app.get('/', (req: Request, res: Response,next: NextFunction) => {
+app.get('/', (req: Request, res: Response, next: NextFunction) => {
   res.send('Welcome to Base Url..')
   // throw new ApiError(400,"Error From api");
   // next('Error From api')
-  
 })
 app.use(globalErrorHandler)
 
