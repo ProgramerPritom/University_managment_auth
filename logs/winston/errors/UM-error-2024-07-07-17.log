@@ -1,0 +1,250 @@
+{
+  errors: {
+    role: ValidatorError: Path `role` is required.
+        at validate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1365:13)
+        at SchemaString.SchemaType.doValidate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1349:7)
+        at D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\document.js:2972:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `role` is required.',
+        type: 'required',
+        path: 'role',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'role',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'Error creating user: User validation failed: role: Path `role` is required.',
+  stack: 'ValidationError: User validation failed: role: Path `role` is required.\n' +
+    '    at model.Document.invalidate (D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:3187:32)\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:2980:17\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\schemaType.js:1368:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'Error Message',
+  timestamp: '2024-07-07T11:09:42.510Z'
+}
+{
+  errors: {
+    role: ValidatorError: Path `role` is required.
+        at validate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1365:13)
+        at SchemaString.SchemaType.doValidate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1349:7)
+        at D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\document.js:2972:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `role` is required.',
+        type: 'required',
+        path: 'role',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'role',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'Error creating user: User validation failed: role: Path `role` is required.',
+  stack: 'ValidationError: User validation failed: role: Path `role` is required.\n' +
+    '    at model.Document.invalidate (D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:3187:32)\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:2980:17\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\schemaType.js:1368:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'Error Message',
+  timestamp: '2024-07-07T11:12:00.075Z'
+}
+{
+  errors: {
+    role: ValidatorError: Path `role` is required.
+        at validate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1365:13)
+        at SchemaString.SchemaType.doValidate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1349:7)
+        at D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\document.js:2972:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `role` is required.',
+        type: 'required',
+        path: 'role',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'role',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'Error creating user: User validation failed: role: Path `role` is required.',
+  stack: 'ValidationError: User validation failed: role: Path `role` is required.\n' +
+    '    at model.Document.invalidate (D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:3187:32)\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:2980:17\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\schemaType.js:1368:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'Error Message',
+  timestamp: '2024-07-07T11:12:54.873Z'
+}
+{
+  errors: {
+    role: ValidatorError: Path `role` is required.
+        at validate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1365:13)
+        at SchemaString.SchemaType.doValidate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1349:7)
+        at D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\document.js:2972:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `role` is required.',
+        type: 'required',
+        path: 'role',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'role',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'Error creating user: User validation failed: role: Path `role` is required.',
+  stack: 'ValidationError: User validation failed: role: Path `role` is required.\n' +
+    '    at model.Document.invalidate (D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:3187:32)\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:2980:17\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\schemaType.js:1368:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'Error Message',
+  timestamp: '2024-07-07T11:13:36.712Z'
+}
+{
+  errors: {
+    role: ValidatorError: Path `role` is required.
+        at validate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1365:13)
+        at SchemaString.SchemaType.doValidate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1349:7)
+        at D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\document.js:2972:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `role` is required.',
+        type: 'required',
+        path: 'role',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'role',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'Error creating user: User validation failed: role: Path `role` is required.',
+  stack: 'ValidationError: User validation failed: role: Path `role` is required.\n' +
+    '    at model.Document.invalidate (D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:3187:32)\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:2980:17\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\schemaType.js:1368:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'Error Message',
+  timestamp: '2024-07-07T11:13:53.231Z'
+}
+{
+  errors: {
+    role: ValidatorError: Path `role` is required.
+        at validate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1365:13)
+        at SchemaString.SchemaType.doValidate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1349:7)
+        at D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\document.js:2972:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `role` is required.',
+        type: 'required',
+        path: 'role',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'role',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'Error creating user: User validation failed: role: Path `role` is required.',
+  stack: 'ValidationError: User validation failed: role: Path `role` is required.\n' +
+    '    at model.Document.invalidate (D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:3187:32)\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:2980:17\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\schemaType.js:1368:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'Error Message',
+  timestamp: '2024-07-07T11:15:42.212Z'
+}
+{
+  errors: {
+    password: ValidatorError: Path `password` is required.
+        at validate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1365:13)
+        at SchemaString.SchemaType.doValidate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1349:7)
+        at D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\document.js:2972:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `password` is required.',
+        type: 'required',
+        path: 'password',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'password',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    role: ValidatorError: Path `role` is required.
+        at validate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1365:13)
+        at SchemaString.SchemaType.doValidate (D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\schemaType.js:1349:7)
+        at D:\Frontend Work\Programming Hero\Next Level\Next-level-development\University_managment_auth\node_modules\mongoose\lib\document.js:2972:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `role` is required.',
+        type: 'required',
+        path: 'role',
+        fullPath: undefined,
+        value: undefined
+      },
+      kind: 'required',
+      path: 'role',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'User validation failed',
+  level: 'error',
+  message: 'Error creating user: User validation failed: password: Path `password` is required., role: Path `role` is required.',
+  stack: 'ValidationError: User validation failed: password: Path `password` is required., role: Path `role` is required.\n' +
+    '    at model.Document.invalidate (D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:3187:32)\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\document.js:2980:17\n' +
+    '    at D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\node_modules\\mongoose\\lib\\schemaType.js:1368:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'Error Message',
+  timestamp: '2024-07-07T11:18:23.304Z'
+}

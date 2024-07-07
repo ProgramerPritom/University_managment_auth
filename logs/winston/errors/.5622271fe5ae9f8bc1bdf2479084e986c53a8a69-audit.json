@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\logs\\winston\\errors\\.5622271fe5ae9f8bc1bdf2479084e986c53a8a69-audit.json",
+    "files": [
+        {
+            "date": 1720347969095,
+            "name": "D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\logs\\winston\\errors\\UM-error-2024-07-07-16.log",
+            "hash": "d8c9b457c47a55ae90feaed2c45b1383247f6ff48f1671553596163bd37d7a21"
+        },
+        {
+            "date": 1720350567437,
+            "name": "D:\\Frontend Work\\Programming Hero\\Next Level\\Next-level-development\\University_managment_auth\\logs\\winston\\errors\\UM-error-2024-07-07-17.log",
+            "hash": "a47473863b1dfd8d2e74ae778d1d27e226dddbbda6d6b928a612240074cdb2eb"
+        }
+    ],
+    "hashType": "sha256"
+}
